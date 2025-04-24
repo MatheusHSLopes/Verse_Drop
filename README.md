@@ -2,7 +2,9 @@
 
 **VerseDrop** é um aplicativo web simples que exibe versículos bíblicos aleatórios. A proposta é ser como uma gota refrescante da Palavra de Deus no seu dia — algo leve, bonito e inspirador.
 
-![VerseDrop Logo](static/imagens/logo_versedrop1a.png)
+<p align="center">
+  <img src="static/imagens/logo_versedrop.png" alt="VerseDrop Logo" width="400"/>
+</p>
 
 ---
 
