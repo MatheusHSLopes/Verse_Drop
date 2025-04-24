@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="VerseDrop: Take a drop of the Word of God today, or many drops! Get inspired by a random Bible verse every time you click.">
+    <meta name="keywords" content="Bible, Verses, Scripture, Inspiration, Word of God">
+    <meta name="author" content="VerseDrop Team">
+    <title>VerseDrop - Random Bible Verses</title>
+    
+    <!-- Linka o script JS -->
+    <script src="{{ url_for('static', filename='script.js') }}" defer></script>
+    
+    <!-- Link para o CSS -->
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+
+    <!-- Fonte personalizada -->
+    <link href="https://fonts.googleapis.com/css2?family=EB+Garamond&display=swap" rel="stylesheet">
+</head>
+<body>
+    <!-- Cabeçalho com logotipo -->
+    <header>
+        <h1>
+            <img src="{{ url_for('static', filename='imagens/logo_versedrop1a.png') }}" alt="VerseDrop Logo - A Drop of the Word of God">
+        </h1>
+        <h3>Take a drop of the Word of God today, or many drops!</h3>
+    </header>
+
+    <!-- Áudio de som de gota -->
+    <audio id="drop-sound" src="{{ url_for('static', filename='sounds/water-drop.mp3') }}" aria-label="Water drop sound"></audio>
+
+    <!-- Caixa de versículo -->
+    <section id="verse-box">
+        <p><strong id="reference">Loading...</strong></p>
+        <blockquote id="verse-text">Please wait.</blockquote>
+    </section>
+
+    <!-- Animação da gota -->
+    <div id="drop" class="drop" aria-hidden="true"></div>
+
+    <!-- Botão para novo versículo -->
+    <button id="new-verse-button" onclick="getRandomVerse()" aria-label="Get another Bible verse">Another Drop!</button>
+
+    <!-- Link para a Bíblia completa -->
+    <footer>
+        <p id="more">Want more? <a href="https://www.biblegateway.com/versions/21st-Century-King-James-Version-KJ21-Bible/#booklist" target="_blank" aria-label="Read the full Bible on Bible Gateway">Read the full Bible here.</a></p>
+    </footer>
+</body>
+</html>

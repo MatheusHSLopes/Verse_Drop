@@ -1,0 +1,710 @@
+[
+  {
+    "book": "John",
+    "chapter": 3,
+    "verse": 16,
+    "text": "For God so loved the world that he gave his one and only Son, that whoever believes in him shall not perish but have eternal life."
+  },
+  {
+    "book": "Psalm",
+    "chapter": 23,
+    "verse": 1,
+    "text": "The LORD is my shepherd, I lack nothing."
+  },
+  {
+    "book": "Proverbs",
+    "chapter": 3,
+    "verse": 5,
+    "text": "Trust in the LORD with all your heart and lean not on your own understanding."
+  },
+  {
+    "book": "Matthew",
+    "chapter": 11,
+    "verse": 28,
+    "text": "Come to me, all you who are weary and burdened, and I will give you rest."
+  },
+  {
+    "book": "Romans",
+    "chapter": 8,
+    "verse": 28,
+    "text": "And we know that in all things God works for the good of those who love him, who have been called according to his purpose."
+  },
+  {
+    "book": "Philippians",
+    "chapter": 4,
+    "verse": 13,
+    "text": "I can do all this through him who gives me strength."
+  },
+  {
+    "book": "Isaiah",
+    "chapter": 40,
+    "verse": 31,
+    "text": "But those who hope in the LORD will renew their strength. They will soar on wings like eagles; they will run and not grow weary, they will walk and not be faint."
+  },
+  {
+    "book": "Jeremiah",
+    "chapter": 29,
+    "verse": 11,
+    "text": "For I know the plans I have for you, declares the LORD, plans to prosper you and not to harm you, plans to give you hope and a future."
+  },
+  {
+    "book": "2 Corinthians",
+    "chapter": 5,
+    "verse": 17,
+    "text": "Therefore, if anyone is in Christ, the new creation has come: The old has gone, the new is here!"
+  },
+  {
+    "book": "Joshua",
+    "chapter": 1,
+    "verse": 9,
+    "text": "Have I not commanded you? Be strong and courageous. Do not be afraid; do not be discouraged, for the LORD your God will be with you wherever you go."
+  },
+  {
+    "book": "1 Corinthians",
+    "chapter": 13,
+    "verse": 4,
+    "text": "Love is patient, love is kind. It does not envy, it does not boast, it is not proud."
+  },
+  {
+    "book": "Psalm",
+    "chapter": 46,
+    "verse": 1,
+    "text": "God is our refuge and strength, an ever-present help in trouble."
+  },
+  {
+    "book": "Matthew",
+    "chapter": 6,
+    "verse": 33,
+    "text": "But seek first his kingdom and his righteousness, and all these things will be given to you as well."
+  },
+  {
+    "book": "Romans",
+    "chapter": 12,
+    "verse": 2,
+    "text": "Do not conform to the pattern of this world, but be transformed by the renewing of your mind. Then you will be able to test and approve what God’s will is—his good, pleasing and perfect will."
+  },
+  {
+    "book": "Ephesians",
+    "chapter": 2,
+    "verse": 8,
+    "text": "For it is by grace you have been saved, through faith—and this is not from yourselves, it is the gift of God."
+  },
+  {
+    "book": "Philippians",
+    "chapter": 4,
+    "verse": 6,
+    "text": "Do not be anxious about anything, but in every situation, by prayer and petition, with thanksgiving, present your requests to God."
+  },
+  {
+    "book": "Psalm",
+    "chapter": 119,
+    "verse": 105,
+    "text": "Your word is a lamp for my feet, a light on my path."
+  },
+  {
+    "book": "Galatians",
+    "chapter": 5,
+    "verse": 22,
+    "text": "But the fruit of the Spirit is love, joy, peace, forbearance, kindness, goodness, faithfulness."
+  },
+  {
+    "book": "John",
+    "chapter": 14,
+    "verse": 6,
+    "text": "Jesus answered, 'I am the way and the truth and the life. No one comes to the Father except through me.'"
+  },
+  {
+    "book": "1 Peter",
+    "chapter": 5,
+    "verse": 7,
+    "text": "Cast all your anxiety on him because he cares for you."
+  },
+  {
+    "book": "Deuteronomy",
+    "chapter": 31,
+    "verse": 6,
+    "text": "Be strong and courageous. Do not be afraid or terrified because of them, for the LORD your God goes with you; he will never leave you nor forsake you."
+  },
+  {
+    "book": "Psalm",
+    "chapter": 37,
+    "verse": 4,
+    "text": "Take delight in the LORD, and he will give you the desires of your heart."
+  },
+  {
+    "book": "Matthew",
+    "chapter": 28,
+    "verse": 19,
+    "text": "Therefore go and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit."
+  },
+  {
+    "book": "Romans",
+    "chapter": 10,
+    "verse": 9,
+    "text": "If you declare with your mouth, 'Jesus is Lord,' and believe in your heart that God raised him from the dead, you will be saved."
+  },
+  {
+    "book": "Colossians",
+    "chapter": 3,
+    "verse": 23,
+    "text": "Whatever you do, work at it with all your heart, as working for the Lord, not for human masters."
+  },
+  {
+    "book": "James",
+    "chapter": 1,
+    "verse": 5,
+    "text": "If any of you lacks wisdom, you should ask God, who gives generously to all without finding fault, and it will be given to you."
+  },
+  {
+    "book": "1 John",
+    "chapter": 4,
+    "verse": 19,
+    "text": "We love because he first loved us."
+  },
+  {
+    "book": "Psalm",
+    "chapter": 34,
+    "verse": 8,
+    "text": "Taste and see that the LORD is good; blessed is the one who takes refuge in him."
+  },
+  {
+    "book": "Proverbs",
+    "chapter": 16,
+    "verse": 3,
+    "text": "Commit to the LORD whatever you do, and he will establish your plans."
+  },
+  {
+    "book": "Isaiah",
+    "chapter": 53,
+    "verse": 5,
+    "text": "But he was pierced for our transgressions, he was crushed for our iniquities; the punishment that brought us peace was on him, and by his wounds we are healed."
+  },
+  {
+    "book": "Matthew",
+    "chapter": 5,
+    "verse": 16,
+    "text": "In the same way, let your light shine before others, that they may see your good deeds and glorify your Father in heaven."
+  },
+  {
+    "book": "Romans",
+    "chapter": 15,
+    "verse": 13,
+    "text": "May the God of hope fill you with all joy and peace as you trust in him, so that you may overflow with hope by the power of the Holy Spirit."
+  },
+  {
+    "book": "Ephesians",
+    "chapter": 6,
+    "verse": 11,
+    "text": "Put on the full armor of God, so that you can take your stand against the devil’s schemes."
+  },
+  {
+    "book": "Hebrews",
+    "chapter": 11,
+    "verse": 1,
+    "text": "Now faith is confidence in what we hope for and assurance about what we do not see."
+  },
+  {
+    "book": "Psalm",
+    "chapter": 91,
+    "verse": 1,
+    "text": "Whoever dwells in the shelter of the Most High will rest in the shadow of the Almighty."
+  },
+  {
+    "book": "John",
+    "chapter": 1,
+    "verse": 1,
+    "text": "In the beginning was the Word, and the Word was with God, and the Word was God."
+  },
+  {
+    "book": "1 Corinthians",
+    "chapter": 10,
+    "verse": 13,
+    "text": "No temptation has overtaken you except what is common to mankind. And God is faithful; he will not let you be tempted beyond what you can bear."
+  },
+  {
+    "book": "Psalm",
+    "chapter": 27,
+    "verse": 1,
+    "text": "The LORD is my light and my salvation—whom shall I fear? The LORD is the stronghold of my life—of whom shall I be afraid?"
+  },
+  {
+    "book": "Micah",
+    "chapter": 6,
+    "verse": 8,
+    "text": "He has shown you, O mortal, what is good. And what does the LORD require of you? To act justly and to love mercy and to walk humbly with your God."
+  },
+  {
+    "book": "Genesis",
+    "chapter": 1,
+    "verse": 1,
+    "text": "In the beginning God created the heavens and the earth."
+  },
+  {
+    "book": "Exodus",
+    "chapter": 14,
+    "verse": 14,
+    "text": "The LORD will fight for you; you need only to be still."
+  },
+  {
+    "book": "Leviticus",
+    "chapter": 19,
+    "verse": 18,
+    "text": "Do not seek revenge or bear a grudge against anyone among your people, but love your neighbor as yourself. I am the LORD."
+  },
+  {
+    "book": "Numbers",
+    "chapter": 6,
+    "verse": 24,
+    "text": "The LORD bless you and keep you."
+  },
+  {
+    "book": "Deuteronomy",
+    "chapter": 6,
+    "verse": 5,
+    "text": "Love the LORD your God with all your heart and with all your soul and with all your strength."
+  },
+  {
+    "book": "Joshua",
+    "chapter": 24,
+    "verse": 15,
+    "text": "But as for me and my household, we will serve the LORD."
+  },
+  {
+    "book": "Judges",
+    "chapter": 6,
+    "verse": 12,
+    "text": "The LORD is with you, mighty warrior."
+  },
+  {
+    "book": "Ruth",
+    "chapter": 1,
+    "verse": 16,
+    "text": "Where you go I will go, and where you stay I will stay. Your people will be my people and your God my God."
+  },
+  {
+    "book": "1 Samuel",
+    "chapter": 16,
+    "verse": 7,
+    "text": "The LORD does not look at the things people look at. People look at the outward appearance, but the LORD looks at the heart."
+  },
+  {
+    "book": "2 Samuel",
+    "chapter": 22,
+    "verse": 31,
+    "text": "As for God, his way is perfect; the LORD’s word is flawless; he shields all who take refuge in him."
+  },
+  {
+    "book": "1 Kings",
+    "chapter": 8,
+    "verse": 23,
+    "text": "LORD, the God of Israel, there is no God like you in heaven above or on earth below."
+  },
+  {
+    "book": "2 Kings",
+    "chapter": 6,
+    "verse": 16,
+    "text": "Don’t be afraid. Those who are with us are more than those who are with them."
+  },
+  {
+    "book": "1 Chronicles",
+    "chapter": 16,
+    "verse": 34,
+    "text": "Give thanks to the LORD, for he is good; his love endures forever."
+  },
+  {
+    "book": "2 Chronicles",
+    "chapter": 7,
+    "verse": 14,
+    "text": "If my people, who are called by my name, will humble themselves and pray and seek my face and turn from their wicked ways, then I will hear from heaven, and I will forgive their sin and will heal their land."
+  },
+  {
+    "book": "Ezra",
+    "chapter": 7,
+    "verse": 10,
+    "text": "For Ezra had devoted himself to the study and observance of the Law of the LORD, and to teaching its decrees and laws in Israel."
+  },
+  {
+    "book": "Nehemiah",
+    "chapter": 8,
+    "verse": 10,
+    "text": "The joy of the LORD is your strength."
+  },
+  {
+    "book": "Esther",
+    "chapter": 4,
+    "verse": 14,
+    "text": "And who knows but that you have come to your royal position for such a time as this?"
+  },
+  {
+    "book": "Job",
+    "chapter": 19,
+    "verse": 25,
+    "text": "I know that my redeemer lives, and that in the end he will stand on the earth."
+  },
+  {
+    "book": "Ecclesiastes",
+    "chapter": 3,
+    "verse": 1,
+    "text": "There is a time for everything, and a season for every activity under the heavens."
+  },
+  {
+    "book": "Song of Solomon",
+    "chapter": 8,
+    "verse": 7,
+    "text": "Many waters cannot quench love; rivers cannot sweep it away."
+  },
+  {
+    "book": "Isaiah",
+    "chapter": 26,
+    "verse": 3,
+    "text": "You will keep in perfect peace those whose minds are steadfast, because they trust in you."
+  },
+  {
+    "book": "Lamentations",
+    "chapter": 3,
+    "verse": 22,
+    "text": "Because of the LORD’s great love we are not consumed, for his compassions never fail."
+  },
+  {
+    "book": "Ezekiel",
+    "chapter": 36,
+    "verse": 26,
+    "text": "I will give you a new heart and put a new spirit in you; I will remove from you your heart of stone and give you a heart of flesh."
+  },
+  {
+    "book": "Daniel",
+    "chapter": 2,
+    "verse": 20,
+    "text": "Praise be to the name of God for ever and ever; wisdom and power are his."
+  },
+  {
+    "book": "Hosea",
+    "chapter": 6,
+    "verse": 6,
+    "text": "For I desire mercy, not sacrifice, and acknowledgment of God rather than burnt offerings."
+  },
+  {
+    "book": "Joel",
+    "chapter": 2,
+    "verse": 25,
+    "text": "I will repay you for the years the locusts have eaten."
+  },
+  {
+    "book": "Amos",
+    "chapter": 5,
+    "verse": 24,
+    "text": "But let justice roll on like a river, righteousness like a never-failing stream!"
+  },
+  {
+    "book": "Jonah",
+    "chapter": 2,
+    "verse": 2,
+    "text": "In my distress I called to the LORD, and he answered me."
+  },
+  {
+    "book": "Nahum",
+    "chapter": 1,
+    "verse": 7,
+    "text": "The LORD is good, a refuge in times of trouble. He cares for those who trust in him."
+  },
+  {
+    "book": "Habakkuk",
+    "chapter": 3,
+    "verse": 19,
+    "text": "The Sovereign LORD is my strength; he makes my feet like the feet of a deer, he enables me to tread on the heights."
+  },
+  {
+    "book": "Zephaniah",
+    "chapter": 3,
+    "verse": 17,
+    "text": "The LORD your God is with you, the Mighty Warrior who saves. He will take great delight in you; in his love he will no longer rebuke you, but will rejoice over you with singing."
+  },
+  {
+    "book": "Haggai",
+    "chapter": 2,
+    "verse": 9,
+    "text": "The glory of this present house will be greater than the glory of the former house."
+  },
+  {
+    "book": "Zechariah",
+    "chapter": 4,
+    "verse": 6,
+    "text": "Not by might nor by power, but by my Spirit, says the LORD Almighty."
+  },
+  {
+    "book": "Malachi",
+    "chapter": 3,
+    "verse": 10,
+    "text": "Bring the whole tithe into the storehouse, that there may be food in my house."
+  },
+  {
+    "book": "Matthew",
+    "chapter": 5,
+    "verse": 9,
+    "text": "Blessed are the peacemakers, for they will be called children of God."
+  },
+  {
+    "book": "Mark",
+    "chapter": 10,
+    "verse": 27,
+    "text": "With man this is impossible, but not with God; all things are possible with God."
+  },
+  {
+    "book": "Luke",
+    "chapter": 6,
+    "verse": 31,
+    "text": "Do to others as you would have them do to you."
+  },
+  {
+    "book": "Acts",
+    "chapter": 1,
+    "verse": 8,
+    "text": "But you will receive power when the Holy Spirit comes on you; and you will be my witnesses."
+  },
+  {
+    "book": "Revelation",
+    "chapter": 21,
+    "verse": 4,
+    "text": "He will wipe every tear from their eyes. There will be no more death or mourning or crying or pain."
+  },
+  {
+    "book": "Genesis",
+    "chapter": 1,
+    "verse": 1,
+    "text": "In the beginning God created the heavens and the earth."
+  },
+  {
+    "book": "Exodus",
+    "chapter": 14,
+    "verse": 14,
+    "text": "The LORD will fight for you; you need only to be still."
+  },
+  {
+    "book": "Leviticus",
+    "chapter": 19,
+    "verse": 18,
+    "text": "Do not seek revenge or bear a grudge against anyone among your people, but love your neighbor as yourself. I am the LORD."
+  },
+  {
+    "book": "Numbers",
+    "chapter": 6,
+    "verse": 24,
+    "text": "The LORD bless you and keep you."
+  },
+  {
+    "book": "Deuteronomy",
+    "chapter": 6,
+    "verse": 5,
+    "text": "Love the LORD your God with all your heart and with all your soul and with all your strength."
+  },
+  {
+    "book": "Joshua",
+    "chapter": 24,
+    "verse": 15,
+    "text": "But as for me and my household, we will serve the LORD."
+  },
+  {
+    "book": "Judges",
+    "chapter": 6,
+    "verse": 12,
+    "text": "The LORD is with you, mighty warrior."
+  },
+  {
+    "book": "Ruth",
+    "chapter": 1,
+    "verse": 16,
+    "text": "Where you go I will go, and where you stay I will stay. Your people will be my people and your God my God."
+  },
+  {
+    "book": "1 Samuel",
+    "chapter": 16,
+    "verse": 7,
+    "text": "The LORD does not look at the things people look at. People look at the outward appearance, but the LORD looks at the heart."
+  },
+  {
+    "book": "2 Samuel",
+    "chapter": 22,
+    "verse": 31,
+    "text": "As for God, his way is perfect; the LORD’s word is flawless; he shields all who take refuge in him."
+  },
+  {
+    "book": "1 Kings",
+    "chapter": 8,
+    "verse": 23,
+    "text": "LORD, the God of Israel, there is no God like you in heaven above or on earth below."
+  },
+  {
+    "book": "2 Kings",
+    "chapter": 6,
+    "verse": 16,
+    "text": "Don’t be afraid. Those who are with us are more than those who are with them."
+  },
+  {
+    "book": "1 Chronicles",
+    "chapter": 16,
+    "verse": 34,
+    "text": "Give thanks to the LORD, for he is good; his love endures forever."
+  },
+  {
+    "book": "2 Chronicles",
+    "chapter": 7,
+    "verse": 14,
+    "text": "If my people, who are called by my name, will humble themselves and pray and seek my face and turn from their wicked ways, then I will hear from heaven, and I will forgive their sin and will heal their land."
+  },
+  {
+    "book": "Ezra",
+    "chapter": 7,
+    "verse": 10,
+    "text": "For Ezra had devoted himself to the study and observance of the Law of the LORD, and to teaching its decrees and laws in Israel."
+  },
+  {
+    "book": "Nehemiah",
+    "chapter": 8,
+    "verse": 10,
+    "text": "The joy of the LORD is your strength."
+  },
+  {
+    "book": "Esther",
+    "chapter": 4,
+    "verse": 14,
+    "text": "And who knows but that you have come to your royal position for such a time as this?"
+  },
+  {
+    "book": "Job",
+    "chapter": 19,
+    "verse": 25,
+    "text": "I know that my redeemer lives, and that in the end he will stand on the earth."
+  },
+  {
+    "book": "Ecclesiastes",
+    "chapter": 3,
+    "verse": 1,
+    "text": "There is a time for everything, and a season for every activity under the heavens."
+  },
+  {
+    "book": "Song of Solomon",
+    "chapter": 8,
+    "verse": 7,
+    "text": "Many waters cannot quench love; rivers cannot sweep it away."
+  },
+  {
+    "book": "Isaiah",
+    "chapter": 26,
+    "verse": 3,
+    "text": "You will keep in perfect peace those whose minds are steadfast, because they trust in you."
+  },
+  {
+    "book": "Lamentations",
+    "chapter": 3,
+    "verse": 22,
+    "text": "Because of the LORD’s great love we are not consumed, for his compassions never fail."
+  },
+  {
+    "book": "Ezekiel",
+    "chapter": 36,
+    "verse": 26,
+    "text": "I will give you a new heart and put a new spirit in you; I will remove from you your heart of stone and give you a heart of flesh."
+  },
+  {
+    "book": "Daniel",
+    "chapter": 2,
+    "verse": 20,
+    "text": "Praise be to the name of God for ever and ever; wisdom and power are his."
+  },
+  {
+    "book": "Hosea",
+    "chapter": 6,
+    "verse": 6,
+    "text": "For I desire mercy, not sacrifice, and acknowledgment of God rather than burnt offerings."
+  },
+  {
+    "book": "Joel",
+    "chapter": 2,
+    "verse": 25,
+    "text": "I will repay you for the years the locusts have eaten."
+  },
+  {
+    "book": "Amos",
+    "chapter": 5,
+    "verse": 24,
+    "text": "But let justice roll on like a river, righteousness like a never-failing stream!"
+  },
+  {
+    "book": "Obadiah",
+    "chapter": 1,
+    "verse": 4,
+    "text": "Though you soar like the eagle and make your nest among the stars, from there I will bring you down."
+  },
+  {
+    "book": "Jonah",
+    "chapter": 2,
+    "verse": 2,
+    "text": "In my distress I called to the LORD, and he answered me."
+  },
+  {
+    "book": "Nahum",
+    "chapter": 1,
+    "verse": 7,
+    "text": "The LORD is good, a refuge in times of trouble. He cares for those who trust in him."
+  },
+  {
+    "book": "Habakkuk",
+    "chapter": 3,
+    "verse": 19,
+    "text": "The Sovereign LORD is my strength; he makes my feet like the feet of a deer, he enables me to tread on the heights."
+  },
+  {
+    "book": "Zephaniah",
+    "chapter": 3,
+    "verse": 17,
+    "text": "The LORD your God is with you, the Mighty Warrior who saves. He will take great delight in you; in his love he will no longer rebuke you, but will rejoice over you with singing."
+  },
+  {
+    "book": "Haggai",
+    "chapter": 2,
+    "verse": 9,
+    "text": "The glory of this present house will be greater than the glory of the former house."
+  },
+  {
+    "book": "Zechariah",
+    "chapter": 4,
+    "verse": 6,
+    "text": "Not by might nor by power, but by my Spirit, says the LORD Almighty."
+  },
+  {
+    "book": "Malachi",
+    "chapter": 3,
+    "verse": 10,
+    "text": "Bring the whole tithe into the storehouse, that there may be food in my house."
+  },
+  {
+    "book": "Matthew",
+    "chapter": 5,
+    "verse": 9,
+    "text": "Blessed are the peacemakers, for they will be called children of God."
+  },
+  {
+    "book": "Mark",
+    "chapter": 10,
+    "verse": 27,
+    "text": "With man this is impossible, but not with God; all things are possible with God."
+  },
+  {
+    "book": "Luke",
+    "chapter": 6,
+    "verse": 31,
+    "text": "Do to others as you would have them do to you."
+  },
+  {
+    "book": "Acts",
+    "chapter": 1,
+    "verse": 8,
+    "text": "But you will receive power when the Holy Spirit comes on you; and you will be my witnesses."
+  },
+  {
+    "book": "Revelation",
+    "chapter": 21,
+    "verse": 4,
+    "text": "He will wipe every tear from their eyes. There will be no more death or mourning or crying or pain."
+  }
+]
